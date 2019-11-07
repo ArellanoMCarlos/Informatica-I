@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:TPM="http://texlive.dante.de/"><rdf:Description about="http://www.miktex.org/packages/galician"><TPM:Name>galician</TPM:Name><TPM:Creator>mpc</TPM:Creator><TPM:Title>Galician support for Babel.</TPM:Title><TPM:Version></TPM:Version><TPM:TargetSystem></TPM:TargetSystem><TPM:Description>This is a revision of the Galician support offered by the Babel
+system. (It is hoped that the revision will ultimately be incorporated
+into the Babel distribution.)
+
+The revision takes advantage of recent work on the Spanish support, as
+well as introducing some new features.
+
+The author is Javier Múgica de Rivera. The package is Copyright © 2007
+Javier A. Múgica.
+
+</TPM:Description><TPM:RunFiles size="27549">texmf\tex\latex\galician\galician.ldf texmf\tpm\packages\galician.tpm</TPM:RunFiles><TPM:DocFiles size="51253">texmf\doc\latex\galician\galician.dvi texmf\doc\latex\galician\README</TPM:DocFiles><TPM:SourceFiles size="26939">texmf\source\galician-src.tar.bz2</TPM:SourceFiles><TPM:TimePackaged>1193419097</TPM:TimePackaged><TPM:MD5>03df111656b27adff5a324652078fb21</TPM:MD5></rdf:Description></rdf:RDF>

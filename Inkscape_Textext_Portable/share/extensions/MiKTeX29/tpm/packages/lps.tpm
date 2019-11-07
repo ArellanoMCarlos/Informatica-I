@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:TPM="http://texlive.dante.de/"><rdf:Description about="http://www.miktex.org/packages/lps"><TPM:Name>lps</TPM:Name><TPM:Creator>mpc</TPM:Creator><TPM:Title>Class for "Logic and Philosophy of Science".</TPM:Title><TPM:Version></TPM:Version><TPM:TargetSystem></TPM:TargetSystem><TPM:Description>The ‘Logic and Philosophy of Science’ journal is an online publication
+of the University of Trieste (Italy). The class builds on the standard
+article class to offer a format that LaTeX authors may use when
+submitting to the journal.
+
+The author is Gustavo Cevolani. The package is Copyright © 2005,2006
+Gustavo Cevolani.
+</TPM:Description><TPM:RunFiles size="5500">texmf\tex\latex\lps\lps.cls texmf\tpm\packages\lps.tpm</TPM:RunFiles><TPM:DocFiles size="38406">texmf\doc\latex\lps\lps.dvi texmf\doc\latex\lps\README</TPM:DocFiles><TPM:SourceFiles size="7444">texmf\source\lps-src.tar.bz2</TPM:SourceFiles><TPM:TimePackaged>1176146625</TPM:TimePackaged><TPM:MD5>d0a2973b1336dce1ce6cafb1bac5b28a</TPM:MD5></rdf:Description></rdf:RDF>

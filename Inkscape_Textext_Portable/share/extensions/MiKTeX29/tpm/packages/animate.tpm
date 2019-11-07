@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:TPM="http://texlive.dante.de/"><rdf:Description about="http://www.miktex.org/packages/animate"><TPM:Name>animate</TPM:Name><TPM:Creator>mpc</TPM:Creator><TPM:Title>Create PDF animations from graphics files and inline graphics</TPM:Title><TPM:Version></TPM:Version><TPM:TargetSystem></TPM:TargetSystem><TPM:Description>The package provides an interface to create portable, JavaScript
+driven PDF animations from sets of graphics files or from inline
+graphics, such as LaTeX picture environment, PSTricks or pgf/TikZ
+generated pictures, or just from typeset text.
+
+The author is Alexander Grahn. The package is Copyright © 2007 Alexander Grahn.</TPM:Description><TPM:RunFiles size="124781">texmf\tex\latex\animate\animate.sty texmf\tex\latex\animate\animfp.sty texmf\tpm\packages\animate.tpm</TPM:RunFiles><TPM:DocFiles size="3395833">texmf\doc\latex\animate\animate.pdf texmf\doc\latex\animate\animate.tex texmf\doc\latex\animate\ChangeLog texmf\doc\latex\animate\files\bye_0.eps texmf\doc\latex\animate\files\bye_1.eps texmf\doc\latex\animate\files\bye_2.eps texmf\doc\latex\animate\files\bye_3.eps texmf\doc\latex\animate\files\exp.mp texmf\doc\latex\animate\files\mailto.eps texmf\doc\latex\animate\files\scarab.mp texmf\doc\latex\animate\files\timeline.txt texmf\doc\latex\animate\README</TPM:DocFiles><TPM:TimePackaged>1285755537</TPM:TimePackaged><TPM:MD5>7dd4083d376a61f5ea4716a26571d452</TPM:MD5></rdf:Description></rdf:RDF>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:TPM="http://texlive.dante.de/"><rdf:Description about="http://www.miktex.org/packages/aebxmp"><TPM:Name>aebxmp</TPM:Name><TPM:Creator>mpc</TPM:Creator><TPM:Title>Add advanced metadata to PDF files</TPM:Title><TPM:Version></TPM:Version><TPM:TargetSystem></TPM:TargetSystem><TPM:Description>The package fills in advanced metadata, using the E4X xml parser in Acrobat Professional 8. 
+
+The package is part of the AeB Pro bundle of packages. 
+</TPM:Description><TPM:RunFiles size="4460">texmf\tex\latex\aebxmp\aebxmp.sty texmf\tpm\packages\aebxmp.tpm</TPM:RunFiles><TPM:DocFiles size="79684">texmf\doc\latex\aebxmp\aebxmp_doc.pdf texmf\doc\latex\aebxmp\aebxmp_test.tex</TPM:DocFiles><TPM:TimePackaged>1174127259</TPM:TimePackaged><TPM:MD5>8ce2f32544c2ec8170fa2d5f859e7d0f</TPM:MD5></rdf:Description></rdf:RDF>

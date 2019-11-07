@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:TPM="http://texlive.dante.de/"><rdf:Description about="http://www.miktex.org/packages/lastpage"><TPM:Name>lastpage</TPM:Name><TPM:Creator>mpc</TPM:Creator><TPM:Title>Reference last page for Page N of M type footers.</TPM:Title><TPM:Version></TPM:Version><TPM:TargetSystem></TPM:TargetSystem><TPM:Description>Reference the number of pages in your LaTeX document through the
+      introduction of a new label which can be referenced like
+      \pageref{LastPage} to give a reference to the last page of a
+      document. It is particularly useful in the page footer that
+      says: Page N of M.</TPM:Description><TPM:RunFiles size="10497">texmf\tex\latex\lastpage\lastpage.sty texmf\tex\latex\lastpage\lastpage209.sty texmf\tpm\packages\lastpage.tpm</TPM:RunFiles><TPM:DocFiles size="531417">texmf\doc\latex\lastpage\lastpage-example.pdf texmf\doc\latex\lastpage\lastpage-example.tex texmf\doc\latex\lastpage\lastpage.pdf texmf\doc\latex\lastpage\README</TPM:DocFiles><TPM:SourceFiles size="19933">texmf\source\lastpage-src.tar.bz2</TPM:SourceFiles><TPM:TimePackaged>1285946468</TPM:TimePackaged><TPM:MD5>b398e122ac2a89b6db4d018a8a7874c2</TPM:MD5></rdf:Description></rdf:RDF>

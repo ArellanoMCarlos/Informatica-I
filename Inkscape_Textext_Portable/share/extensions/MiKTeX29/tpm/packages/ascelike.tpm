@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:TPM="http://texlive.dante.de/"><rdf:Description about="http://www.miktex.org/packages/ascelike"><TPM:Name>ascelike</TPM:Name><TPM:Creator>mpc</TPM:Creator><TPM:Title>Bibliography style for the American Society of Civil Engineer.</TPM:Title><TPM:Version></TPM:Version><TPM:TargetSystem></TPM:TargetSystem><TPM:Description>A document class and bibliographic style that prepares documents in
+the style required by the American Society of Civil Engineers (these
+are unofficial files, not sanctioned by that organization, and the
+files specifically give this caveat).  Also included is a short
+documentation/example of how to use the class.
+</TPM:Description><TPM:RunFiles size="59921">texmf\bibtex\bib\ascelike\ascexmpl.bib texmf\bibtex\bst\ascelike\ascelike.bst texmf\tex\latex\ascelike\ascelike.cls texmf\tpm\packages\ascelike.tpm</TPM:RunFiles><TPM:DocFiles size="320090">texmf\doc\latex\ascelike\ascexmpl.dvi texmf\doc\latex\ascelike\ascexmpl.pdf texmf\doc\latex\ascelike\ascexmpl.ps texmf\doc\latex\ascelike\ascexmpl.tex texmf\doc\latex\ascelike\Readme</TPM:DocFiles><TPM:TimePackaged>995100037</TPM:TimePackaged><TPM:MD5>bd0cb4355bbf6604a83718445ef5370f</TPM:MD5></rdf:Description></rdf:RDF>

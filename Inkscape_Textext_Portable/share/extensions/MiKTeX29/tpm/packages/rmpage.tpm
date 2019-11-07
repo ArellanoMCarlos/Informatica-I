@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:TPM="http://texlive.dante.de/"><rdf:Description about="http://www.miktex.org/packages/rmpage"><TPM:Name>rmpage</TPM:Name><TPM:Creator>mpc</TPM:Creator><TPM:Title>A package to help change page layout parameters in LaTeX.</TPM:Title><TPM:Version></TPM:Version><TPM:TargetSystem></TPM:TargetSystem><TPM:Description>It lets you change page layout parameters in small steps
+      over a range of values using options. It can set \textwidth
+      appropriately for the main fount, and ensure that the text fits
+      inside the printable area of a printer. An rmpage-formatted
+      document can be typeset identically without rmpage after
+      a single cut and paste operation. Local configuration can
+      set defaults: for all documents; and by class, by printer,
+      and by paper size. The geometry
+      package is better if you want to set page layout parameters
+      to particular measurements.</TPM:Description><TPM:RunFiles size="268150">texmf\tex\latex\rmpage\rmpage.sty texmf\tex\latex\rmpage\rmpgen.cfg texmf\tpm\packages\rmpage.tpm</TPM:RunFiles><TPM:DocFiles size="544095">texmf\doc\latex\rmpage\rmpage.dvi texmf\doc\latex\rmpage\rmpage.tex</TPM:DocFiles><TPM:SourceFiles size="57085">texmf\source\latex\rmpage\readme texmf\source\latex\rmpage\rmplocal.gfc</TPM:SourceFiles><TPM:TimePackaged>989864094</TPM:TimePackaged><TPM:MD5>eaaade1f203b8edddf2c70bac65ccdc1</TPM:MD5></rdf:Description></rdf:RDF>

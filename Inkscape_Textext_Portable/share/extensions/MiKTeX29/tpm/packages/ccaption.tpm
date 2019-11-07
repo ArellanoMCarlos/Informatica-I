@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:TPM="http://texlive.dante.de/"><rdf:Description about="http://www.miktex.org/packages/ccaption"><TPM:Name>ccaption</TPM:Name><TPM:Creator>mpc</TPM:Creator><TPM:Title>Continuation headings and legends for floats.</TPM:Title><TPM:Version></TPM:Version><TPM:TargetSystem></TPM:TargetSystem><TPM:Description>A package providing commands for `continuation captions', unnumbered
+captions, and also a non-specific legend heading for any
+environment. Methods are also provided to define captions for use
+outside float (e.g., figure and table) environments, and to define new
+float environments and List of Float.
+</TPM:Description><TPM:RunFiles size="24161">texmf\tex\latex\ccaption\ccaption.sty texmf\tpm\packages\ccaption.tpm</TPM:RunFiles><TPM:DocFiles size="382870">texmf\doc\latex\ccaption\ccaption.pdf texmf\doc\latex\ccaption\README</TPM:DocFiles><TPM:SourceFiles size="33058">texmf\source\ccaption-src.tar.bz2</TPM:SourceFiles><TPM:TimePackaged>1252672445</TPM:TimePackaged><TPM:MD5>e41d4146e6c5c0f8e92ffa434a8c7230</TPM:MD5></rdf:Description></rdf:RDF>

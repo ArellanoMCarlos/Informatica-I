@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:TPM="http://texlive.dante.de/"><rdf:Description about="http://www.miktex.org/packages/gmutils"><TPM:Name>gmutils</TPM:Name><TPM:Creator>mpc</TPM:Creator><TPM:Title>Miscellaneous macros used by other packages by Natror (GM).</TPM:Title><TPM:Version></TPM:Version><TPM:TargetSystem></TPM:TargetSystem><TPM:Description>Miscellaneous macros used by other packages of Natror.
+
+Contents of the package: 
+\newgif and other globals; \@ifnextcat;
+\afterfi and friends; commands from
+relsize, etc.; “almost an
+environment” or redefinition of \begin
+(\begin* doesn't check if the argument environment is defined).</TPM:Description><TPM:RunFiles size="251945">texmf\tex\latex\gmutils\gmutils.sty texmf\tpm\packages\gmutils.tpm</TPM:RunFiles><TPM:DocFiles size="2716714">texmf\doc\latex\gmutils\gmutils.pdf texmf\doc\latex\gmutils\README</TPM:DocFiles><TPM:TimePackaged>1268062804</TPM:TimePackaged><TPM:MD5>562f0d1d5640adc4fc94422cf0b3b029</TPM:MD5></rdf:Description></rdf:RDF>

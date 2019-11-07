@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:TPM="http://texlive.dante.de/"><rdf:Description about="http://www.miktex.org/packages/context-mathsets"><TPM:Name>context-mathsets</TPM:Name><TPM:Creator>mpc</TPM:Creator><TPM:Title>Set notation in ConTeXt.</TPM:Title><TPM:Version></TPM:Version><TPM:TargetSystem></TPM:TargetSystem><TPM:Description>Typeset good-looking set notation (e.g., {x|x \in Y}), as well as
+similar things such as Dirac bra-ket notation, conditional
+probabilities, etc.
+
+The package is a partial port of Donald Arseneau's LaTeX package braket. 
+
+The author is Aditya Mahajan.
+
+</TPM:Description><TPM:RunFiles size="5674">texmf\tex\context\third\mathsets\t-mathsets.tex texmf\tpm\packages\context-mathsets.tpm</TPM:RunFiles><TPM:DocFiles size="347582">texmf\doc\context\third\mathsets\mathsets-doc.pdf texmf\doc\context\third\mathsets\README</TPM:DocFiles><TPM:TimePackaged>1172947321</TPM:TimePackaged><TPM:MD5>2ca1deefee9e21936daccc06eac70b98</TPM:MD5></rdf:Description></rdf:RDF>

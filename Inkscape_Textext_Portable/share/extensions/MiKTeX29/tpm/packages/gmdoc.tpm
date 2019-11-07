@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:TPM="http://texlive.dante.de/"><rdf:Description about="http://www.miktex.org/packages/gmdoc"><TPM:Name>gmdoc</TPM:Name><TPM:Creator>mpc</TPM:Creator><TPM:Title></TPM:Title><TPM:Version></TPM:Version><TPM:TargetSystem></TPM:TargetSystem><TPM:Description>A LaTeX package and an example class for documenting (La)TeX
+packages, document classes, .dtx etc.,  providing hyperlinks.  The
+package is compatible with doc (no
+warranty :-) and permits minimal markup of code (the macrocode
+environment is no longer necessary).
+
+The package needs hyperref and the
+author’s three ‘‘basic’ packages:
+gmutils,
+gmverb and
+gmiflink.
+
+As a bonus, the driver files are added that typeset the
+LaTeX (TeXLive2005) Base.</TPM:Description><TPM:RunFiles size="369343">texmf\makeindex\gmdoc\gmglo.ist texmf\tex\latex\gmdoc\gmdoc.sty texmf\tex\latex\gmdoc\gmdocc.cls texmf\tex\latex\gmdoc\gmoldcomm.sty texmf\tpm\packages\gmdoc.tpm</TPM:RunFiles><TPM:DocFiles size="5010493">texmf\doc\latex\gmdoc\gmdoc.pdf texmf\doc\latex\gmdoc\README</TPM:DocFiles><TPM:SourceFiles size="9601">texmf\source\gmdoc-src.tar.bz2</TPM:SourceFiles><TPM:TimePackaged>1268062804</TPM:TimePackaged><TPM:MD5>6c0c359b93c679d0f3ee40b6523e5d26</TPM:MD5></rdf:Description></rdf:RDF>

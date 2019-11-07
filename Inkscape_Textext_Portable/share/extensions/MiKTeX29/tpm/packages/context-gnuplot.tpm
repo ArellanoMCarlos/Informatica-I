@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:TPM="http://texlive.dante.de/"><rdf:Description about="http://www.miktex.org/packages/context-gnuplot"><TPM:Name>context-gnuplot</TPM:Name><TPM:Creator>mpc</TPM:Creator><TPM:Title>Inclusion of Gnuplot graphs in ConTeXt</TPM:Title><TPM:Version></TPM:Version><TPM:TargetSystem></TPM:TargetSystem><TPM:Description>Enables simple inclusion of graphs created with Gnuplot. The package
+writes a script into temporary file, runs Gnuplot and includes the
+resulting graphic directly into the document.  You probably also want
+to have the Gnuplot extension for the package (though it's not yet
+part of official Gnuplot).
+</TPM:Description><TPM:RunFiles size="36442">texmf\metapost\context\context-gnuplot\mp-gnuplot.mp texmf\tex\context\context-gnuplot\t-gnuplot.tex texmf\tpm\packages\context-gnuplot.tpm</TPM:RunFiles><TPM:TimePackaged>1167845575</TPM:TimePackaged><TPM:MD5>8fca1ee131728005ecfbc047e81f3799</TPM:MD5></rdf:Description></rdf:RDF>

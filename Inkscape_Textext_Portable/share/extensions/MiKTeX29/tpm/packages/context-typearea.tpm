@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:TPM="http://texlive.dante.de/"><rdf:Description about="http://www.miktex.org/packages/context-typearea"><TPM:Name>context-typearea</TPM:Name><TPM:Creator>mpc</TPM:Creator><TPM:Title>Something like Koma-Script typearea</TPM:Title><TPM:Version></TPM:Version><TPM:TargetSystem></TPM:TargetSystem><TPM:Description>The module provides a command that calculates the page layout as the
+LaTeX package typearea does.
+
+The author is Peter Münster.
+</TPM:Description><TPM:RunFiles size="3918">texmf\tex\context\third\typearea\t-typearea.tex texmf\tpm\packages\context-typearea.tpm</TPM:RunFiles><TPM:DocFiles size="187237">texmf\doc\context\third\typearea\typearea-demo.pdf texmf\doc\context\third\typearea\typearea-doc.pdf</TPM:DocFiles><TPM:TimePackaged>1172179227</TPM:TimePackaged><TPM:MD5>e6fcd66bceb7ebf6adf635dae3ba91ad</TPM:MD5></rdf:Description></rdf:RDF>

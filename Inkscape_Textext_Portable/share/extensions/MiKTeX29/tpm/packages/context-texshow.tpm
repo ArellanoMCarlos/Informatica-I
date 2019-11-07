@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:TPM="http://texlive.dante.de/"><rdf:Description about="http://www.miktex.org/packages/context-texshow"><TPM:Name>context-texshow</TPM:Name><TPM:Creator>mpc</TPM:Creator><TPM:Title>ConTeXt command and parameter reference</TPM:Title><TPM:Version></TPM:Version><TPM:TargetSystem></TPM:TargetSystem><TPM:Description>TeXshow uses Perl and PerlTk to show a overview of the ConTeXt
+commands and their parameters. In the Tk window you can search for a
+command, and by switching the interface, you can see the equivalent in
+another interface language.
+
+The author is Taco Hoekwater.</TPM:Description><TPM:RunFiles size="30208">texmf\scripts\context\perl\texshow.pl texmf\tpm\packages\context-texshow.tpm</TPM:RunFiles><TPM:DocFiles size="5917">texmf\doc\context\scripts\perl\texshow.1 texmf\doc\context\scripts\perl\texshow.html</TPM:DocFiles><TPM:TimePackaged>1172179227</TPM:TimePackaged><TPM:MD5>a893d08ec413a1881267b675f7dfc4c4</TPM:MD5></rdf:Description></rdf:RDF>

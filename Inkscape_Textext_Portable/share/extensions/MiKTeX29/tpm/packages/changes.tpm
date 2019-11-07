@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:TPM="http://texlive.dante.de/"><rdf:Description about="http://www.miktex.org/packages/changes"><TPM:Name>changes</TPM:Name><TPM:Creator>mpc</TPM:Creator><TPM:Title>Manual change markup.</TPM:Title><TPM:Version></TPM:Version><TPM:TargetSystem></TPM:TargetSystem><TPM:Description>The changes-package allows the user to manually markup changes of
+text, such as additions, deletions, or replacements. Changed text is
+shown in a different colour; deleted text is crossed out. The package
+allows free defining of additional authors and their associated
+colour. It also allows you to define a markup for authors or
+annotations.
+
+The author is Ekkart Kleinod. The package is Copyright © 2007 Ekkart
+Kleinod.</TPM:Description><TPM:RunFiles size="10469">texmf\tex\latex\changes\changes.sty texmf\tpm\packages\changes.tpm</TPM:RunFiles><TPM:DocFiles size="533180">texmf\doc\latex\changes\changes.pdf texmf\doc\latex\changes\changes_eng.pdf texmf\doc\latex\changes\README</TPM:DocFiles><TPM:SourceFiles size="10688">texmf\source\changes-src.tar.bz2</TPM:SourceFiles><TPM:TimePackaged>1192472529</TPM:TimePackaged><TPM:MD5>5461952d803460a458f14ed18b851a9a</TPM:MD5></rdf:Description></rdf:RDF>
