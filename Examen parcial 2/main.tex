@@ -1,0 +1,118 @@
+\documentclass[letterpaper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath,amsfonts,amssymb} 
+\usepackage{ mathrsfs }
+\usepackage{graphicx}
+\usepackage[usenames]{xcolor}
+\usepackage{array}
+\usepackage{enumitem}
+\usepackage[spanish,es-nodecimaldot]{babel}
+\usepackage{hyperref}
+\usepackage{ragged2e}
+
+\title{\includegraphics[scale=0.2]{Logo.jpg}\\
+División de Arquitectura, Diseño e Ingenierías\\
+\colorbox{black}{. \hspace{2.45cm} \textcolor{white}{\textbf{Examen parcial 2 - Informática I}} \hspace{2.45cm} .}}
+\author{\textcolor{red}{\textbf{Escriba aquí su nombre}}}
+\date{\today}
+
+\voffset -3cm
+\evensidemargin 0.8cm
+\oddsidemargin -0.3cm
+\textwidth 16.0cm
+\textheight 24cm
+\headsep 0pt
+
+\begin{document}
+\maketitle
+
+\textbf{Edite este archivo \LaTeX respondiendo a cada pregunta correctamente} (muy importante esto último). \textbf{Justifique cada respuesta} (con procedimiento).
+
+Escriba su nombre y mande los archivos fuente y el pdf al correo \href{mailto:arellano@suscience.com}{arellano@suscience.com}.
+
+\begin{enumerate}
+    \item ¿Cuál es la memoria volátil de lectura--escritura? puede ser dinámica o estática.
+    
+    
+    
+    
+    \item ¿Cuál es la memoria de sólo lectura no--volátil?
+    
+    
+    
+    
+    \item ¿Cuál es la memoria de acceso rápido, más que la RAM pero menos que los registros de la unidad de control?
+    
+    
+    
+    
+    \item Una computadora tiene 256 MB de memoria, ¿Cuántos bits se necesitan para asignar una dirección a cada palabra si ésta mide 4 bytes?
+    
+    
+    
+    
+    \item Suponga que un programa comienza en la dirección 208. ¿En qué dirección finaliza el siguiente código máquina?
+    
+    \begin{tabular}{|lcc|}
+    \hline
+        Copiar  & R1 & @2000\\
+        Copiar & R2 & @2001\\
+        Multiplicar & R1 & \\
+        Copiar & R2 & @2002\\
+        Sumar & R3 & \\
+        Copiar & @2003 & R3\\
+        FIN&&\\
+    \hline
+    \end{tabular}
+    
+    
+    
+    
+    \item Escriba el pseudocódigo para ejecutar la operación factorial de un número dado como entrada.
+    \begin{itemize}
+        \item El factorial de $N$, expresado como $N!$, se define como la multiplicación sucesiva de los números anteriores. Por ejemplo:
+        $$5!=5\times4\times3\times2\times1=120.$$
+    \end{itemize}
+    
+    
+    
+    
+    \item Realice las siguientes operaciones:
+    \begin{eqnarray*}
+    11011011.1&\times\\
+    \underline{\hspace{5mm}11001\;\;\;}&\\
+    \mathtt{{\color{gray}Escriba\;su\;respuesta\;aqui}}\\
+    \mathtt{{\color{gray}Puede\;agregar\;tantos\;renglones\;sean\;necesarios}}
+    \end{eqnarray*}
+    
+    
+    \begin{eqnarray*}
+    1000110&-\\
+    \underline{\hspace{5mm}11011}&\\
+    \mathtt{{\color{gray}Escriba\;su\;respuesta\;aqui}}
+    \end{eqnarray*}
+    
+    
+    
+    
+    \item Use compuertas lógicas para representar la siguiente operación de 1 bit por hardware:
+    $$
+    a+\overline{b+c}-(d+a\times b)
+    $$
+    {\color{gray}Use las compuertas adjuntas en el repositorio para crear un circuito y agregar la imagen al documento. Cualquier duda me pueden escribir.}
+    
+    
+    
+    
+    \item Realice la siguiente operación lógica:
+    
+    \centering
+     [a \textbf{AND}(a \textbf{OR} b)]\textbf{OR}(a \textbf{AND} b)
+     
+     \justify
+     con a=110 y b=011.
+     
+     
+     
+\end{enumerate}
+\end{document}
